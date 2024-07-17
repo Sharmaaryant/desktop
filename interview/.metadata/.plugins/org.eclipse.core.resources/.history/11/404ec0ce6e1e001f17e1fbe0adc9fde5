@@ -1,0 +1,11 @@
+package java8;
+
+public class TestByLambdaExp {
+	public static void main(String[] args) {
+		Hello h = () ->{
+			System.out.println("By lambda Expression....!!!!");
+		};
+		h.say();
+	}
+
+}

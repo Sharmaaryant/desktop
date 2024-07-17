@@ -1,0 +1,22 @@
+package streamapi;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class SecondHighestSalary {
+	public static void main(String[] args) {
+		String name;
+		double salary;
+		
+		List<Employee> e= new ArrayList<>();
+		e.add(new Employee("Alice", 50000));
+		e.add(new Employee("Bob", 70000));
+		e.add(new Employee("Charlie", 60000));
+		e.add(new Employee("David", 80000));
+		
+		double Secound
+		
+		
+	}
+
+}
